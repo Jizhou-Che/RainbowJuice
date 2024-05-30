@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="RainbowJuice" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="DaiDaiMod" target="1.8" />
+      <module name="ExampleMod" target="1.8" />
+      <module name="LoyalSidekicks" target="1.8" />
+      <module name="PitaRelicDrop" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

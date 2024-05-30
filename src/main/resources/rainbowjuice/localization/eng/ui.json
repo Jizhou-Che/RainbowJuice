@@ -1,0 +1,17 @@
+{
+    "rainbowjuice:Config": {
+        "TEXT": [
+            "Reset to Default",
+            "<<",
+            ">>",
+            "Liquid Color",
+            "Liquid Color (Rainbow)",
+            "Hybrid Color",
+            "Hybrid Color (Rainbow)",
+            "Spots Color",
+            "Spots Color (Rainbow)",
+            "Bottle:",
+            "(Spotless)"
+        ]
+    }
+}
